@@ -3,9 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="COVID Safety Logo" width="120" />
-
 <br /><br />
 
 ## 🦠 COVID Safety – Awareness Website  
