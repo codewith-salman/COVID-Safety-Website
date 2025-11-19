@@ -38,7 +38,6 @@ The website can be used as:
 - Organized sections for symptoms, prevention, and guidelines  
 - Smooth hover animations  
 - Modern and minimalistic UI  
-- Lightweight and fast-loading website  
 - Ideal for educational and informational purposes  
 
 ---
