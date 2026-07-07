@@ -67,8 +67,6 @@ Ideal for:
 - Government health initiatives
 - Portfolio projects focused on informational UI design
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -81,8 +79,6 @@ Ideal for:
 - Well-structured typography and spacing
 - Easy-to-read content organization
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -92,8 +88,6 @@ This project is built using:
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
