@@ -75,7 +75,6 @@ Ideal for:
 - Clean and modern informational UI
 - Dedicated sections for symptoms and prevention
 - Health guidelines and safety recommendations
-- Smooth hover effects and transitions
 - Well-structured typography and spacing
 - Easy-to-read content organization
 
