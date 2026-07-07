@@ -3,56 +3,105 @@
 <br />
 <div align="center">
 
-<br /><br />
+<!-- 🔰 BADGES -->
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/covid-safety-website)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/covid-safety-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/covid-safety-website?style=social)
 
-## 🦠 COVID Safety – Awareness Website  
-A clean, informative, and responsive **COVID Safety Awareness Website** built using HTML, CSS, and JavaScript.  
-Designed to educate users about COVID-19 safety measures with a simple, modern, and easy-to-understand UI.
-
-</div>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://covid-safety-website.vercel.app/)
+[![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
+[![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
+[![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
 
-<!-- ABOUT THE PROJECT -->
+<!-- 🔰 PROJECT LOGO -->
+<img src="COVID%20Safety%20Website/assets/images/desktop.png" alt="COVID Safety Website Logo" width="120"/>
+
+<br />
+<br />
+
+<h1 align="center">🦠 COVID Safety Website</h1>
+
+A clean, informative, and fully responsive  
+**COVID-19 Safety Awareness Website UI** built using **HTML, CSS, and JavaScript**.
+
+Designed to educate users about COVID-19 symptoms, prevention measures, and health guidelines through a simple, modern, and accessible interface.
+
+<a href="https://covid-safety-website.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+---
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📑 Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+---
+
 ## 📖 About The Project
 
-<img src="COVID%20Safety%20Website/assets/images/desktop.png" alt="COVID Safety Website Desktop Screenshot" width="100%" />
+<img src="COVID%20Safety%20Website/assets/images/desktop.png" alt="COVID Safety Website Desktop View" width="100%" />
 
-The **COVID Safety Website** is an informational and awareness-focused UI built to help users understand essential precautions, symptoms, and prevention guidelines related to COVID-19.  
-It presents critical health information in a clean, structured, and visually appealing format so users can quickly learn how to protect themselves and their community.  
+The **COVID Safety Website** is a modern awareness-focused website designed to educate users about COVID-19 safety practices, symptoms, prevention methods, and public health recommendations.
 
-This project showcases how front-end technologies can be used to deliver **public safety information** in a clear and accessible way. The layout includes sections for **symptoms, prevention tips, safety guidelines, health recommendations, and emergency contacts** — all designed with readability and simplicity in mind.  
+The layout emphasizes clarity, accessibility, and structured information, making it easy for visitors to quickly understand important health guidance. With dedicated sections for symptoms, prevention tips, safety guidelines, and emergency information, the website delivers an informative and user-friendly experience across all devices.
 
-The website can be used as:  
-- An educational COVID-19 safety page  
-- A health awareness mini-website  
-- A UI concept for public health organizations  
-- A portfolio element demonstrating informational website design  
+This project demonstrates your ability to build **informational websites**, organize health-related content with clear visual hierarchy, and create responsive layouts that effectively communicate important public awareness messages.
 
----
+Ideal for:
 
-### ✨ Features
+- Public health awareness campaigns
+- Healthcare organization websites
+- Educational information portals
+- Government health initiatives
+- Portfolio projects focused on informational UI design
 
-- Fully responsive awareness layout  
-- Clean and easy-to-read typography  
-- Organized sections for symptoms, prevention, and guidelines  
-- Smooth hover animations  
-- Modern and minimalistic UI  
-- Ideal for educational and informational purposes  
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
-### 🛠️ Built With
+## ✨ Features
 
-* [HTML5](https://html5.org/)  
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+- Fully responsive awareness website layout
+- Clean and modern informational UI
+- Dedicated sections for symptoms and prevention
+- Health guidelines and safety recommendations
+- Smooth hover effects and transitions
+- Well-structured typography and spacing
+- Easy-to-read content organization
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+## 🛠️ Built With
+
+This project is built using:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## 📬 Contact
 
-**LinkedIn** – [Muhammad Salman Arshad](https://www.linkedin.com/in/muhammad-salmanarshad/)  
-**Email** – [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
+**Muhammad Salman Arshad**
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/
+- 🎨 **Figma:** https://www.figma.com/@codewithsalman
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
