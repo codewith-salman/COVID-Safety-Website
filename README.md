@@ -9,6 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/covid-safety-website?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://covid-safety-website.vercel.app/)
+
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
@@ -17,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="COVID%20Safety%20Website/assets/images/desktop.png" alt="COVID Safety Website Logo" width="120"/>
+<img src="COVID%20Safety%20Website/assets/images/logo.svg" alt="COVID Safety Website Logo" width="120"/>
 
 <br />
 <br />
